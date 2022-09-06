@@ -64,3 +64,5 @@ The t test shows the small probability of this being .00000003405. We reject the
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+We made box plots to look at the data showing the differences between two variables. Then we checked again using the t test method. Giving us the probability of .00000003405 chances of it happening. 
